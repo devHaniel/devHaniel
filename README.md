@@ -75,42 +75,16 @@ Actualmente me especializo en:
 - 🛢️ SQL Server
 - 🔧 Git & GitHub
 
----
-
-# 📈 Objetivos
-
-- Convertirme en desarrollador backend especializado en .NET
-- Construir soluciones empresariales reales
-- Aprender desarrollo fullstack moderno
-- Expandirme hacia Data Analysis & Automation
-- Crear software útil para pequeños negocios
-
----
 
 # 📫 Contacto
 
 📧 Puedes encontrarme en GitHub y seguir mi crecimiento como desarrollador.
 
----
-
-# ⚡ Frase
-
-> “Construyendo soluciones reales mientras aprendo cada día.”
-
----
 
 # 📊 GitHub Stats
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devHaniel&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devHaniel&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHaniel&layout=compact&theme=tokyonight)
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHaniel&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
----
-
-# 🐍 Contribution Snake
-
-```md
-![snake gif](https://github.com/devHaniel/devHaniel/blob/output/github-contribution-grid-snake.svg)
-```
+<img height="180em" src="https://streak-stats.demolab.com?user=devHaniel&theme=tokyonight"/>
