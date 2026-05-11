@@ -20,7 +20,6 @@ Actualmente me especializo en:
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -52,18 +51,6 @@ Actualmente me especializo en:
 - Views
 - Relaciones y modelado
 - Integración con Entity Framework y Dapper
-
----
-
-# 🧠 Actualmente Aprendiendo
-
-- ⚡ Angular y TypeScript
-- ⚡ Desarrollo web fullstack con .NET
-- ⚡ Arquitecturas escalables
-- ⚡ JWT Authentication & Authorization
-- ⚡ SignalR
-- ⚡ Exportación de Excel y PDF
-- ⚡ APIs empresariales
 
 ---
 
