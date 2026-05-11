@@ -101,12 +101,10 @@ Actualmente me especializo en:
 
 # 📊 GitHub Stats
 
-> Reemplaza `TU_USUARIO` por tu usuario real de GitHub.
-
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devHaniel&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHaniel&layout=compact&theme=tokyonight)
 ```
 
 ---
@@ -114,5 +112,5 @@ Actualmente me especializo en:
 # 🐍 Contribution Snake
 
 ```md
-![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/devHaniel/devHaniel/blob/output/github-contribution-grid-snake.svg)
 ```
