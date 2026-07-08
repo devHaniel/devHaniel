@@ -45,6 +45,7 @@ Actualmente me especializo en:
 ## 🗄️ Base de Datos
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Postgre SQL](https://img.shields.io/badge/POSTGRE%20Sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - Diseño relacional
 - Procedimientos almacenados
