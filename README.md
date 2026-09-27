@@ -5,11 +5,9 @@
 Actualmente me especializo en:
 
 - 🔹 Backend con **C# / ASP.NET Core**
-- 🔹 Backend con **JAVA / Spring Boot**
 - 🔹 Arquitectura limpia (**Clean Architecture**)
 - 🔹 APIs REST profesionales
 - 🔹 SQL Server
-- 🔹 Automatización y scripting con Python
 - 🔹 Sistemas empresariales y soluciones de escritorio
 
 ---
@@ -19,7 +17,6 @@ Actualmente me especializo en:
 ## 👨‍💻 Lenguajes
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -58,8 +55,6 @@ Actualmente me especializo en:
 
 # 🖥️ Entorno de Desarrollo
 
-- 🐧 Kubuntu / Linux
 - 💻 VS Code
 - 🐳 Docker
-- 🛢️ SQL Server
 - 🔧 Git & GitHub
